@@ -48,7 +48,7 @@ Here are a few of my featured projects:
 
 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhajitghosh)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/subhajit-ghosh-a17104348/)  
 📧 Email: suvojitghosh2000@gmail.com  
 🌍 Portfolio: Coming Soon !!
 
