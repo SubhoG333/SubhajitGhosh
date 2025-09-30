@@ -35,10 +35,10 @@
 📌 Pinned Projects
 Here are a few of my featured projects:
 
-- 🛰️ [Smart Air Quality Monitor](https://github.com/subhajitghosh/smart-air-quality-monitoring)  
-- 🌿 [Smart Garden System](https://github.com/subhajitghosh/smart-garden-system)  
-- 📱 [Weather Update App (Android)](https://github.com/subhajitghosh/weather-update-android-app)  
-- 🧠 [Iris Classifier - ML Mini Project](https://github.com/subhajitghosh/iris-classification-ml)
+- 🛰️ [Smart Air Quality Monitor](https://github.com/SubhoG333/smart-air-quality-monitoring)  
+- 🌿 [Smart Garden System](https://github.com/SubhoG333/smart_irrigation_system)  
+- 📱 [Weather Update App (Android)](https://github.com/SubhoG333/smart_irrigation_system)  
+- 🧠 [Iris Classifier - ML Mini Project](https://github.com/SubhoG333/iris-classification-ml)
 
 
 
